@@ -1,4 +1,3 @@
-# .github
 
 <div align="center">
   <h1>Clarifood</h1>
